@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #444857;
+}
+
+svg{
+    background-color: #444857;
+}
+
+svg#canvas{
+    min-height: 600px;
+   min-width: 1000px;
+}
+
+#tooltip{
+    visibility: hidden;
+    background: beige;
+    padding: 5px;
+}
+
+h1#title {
+    color: white;
+    font-size: 2.3em;
+}
+
+
+p#description {
+    background: white;
+    padding: 5px;
+}
