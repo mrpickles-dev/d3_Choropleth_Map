@@ -1,4 +1,5 @@
-# d3_Choropleth_Map
+# Visualize Data with a Choropleth Map
+
 
 Visualize Data with a Choropleth Map
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/EZKqza.
